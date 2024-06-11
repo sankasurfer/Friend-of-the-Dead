@@ -1,4 +1,4 @@
-# Friend-of-the-Dead
+# Friend of the dead: zoanthids decrease urchin-induced bioerosion
 data files for Saldaña et al. Friend of the dead
 [![DOI](https://zenodo.org/badge/813800447.svg)](https://zenodo.org/doi/10.5281/zenodo.11583881)
 
