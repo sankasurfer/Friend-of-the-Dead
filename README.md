@@ -1,5 +1,7 @@
 # Friend-of-the-Dead
 data files for Saldaña et al. Friend of the dead
+[![DOI](https://zenodo.org/badge/813800447.svg)](https://zenodo.org/doi/10.5281/zenodo.11583881)
+
 ## Survey data on reef composition, urchin densities and urchin occupancy of substrate
 "Rep_Substrate_sec_primary_urchins"
 "Rep_Urchin substratum surveys 10 sites"
