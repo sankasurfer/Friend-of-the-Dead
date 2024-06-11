@@ -4,11 +4,11 @@ data files for Saldaña et al. Friend of the dead
 "Rep_Substrate_sec_primary_urchins"
 "Rep_Urchin substratum surveys 10 sites"
 "Rep_Urchins_substrate_specific_surveys"
-### Lab experiment data
+## Lab experiment data
 "Rep_urchinpoop"
 "Rep_Lab_buoyantweights"
-#### Urchin habitat choice enclosure field experiment
+## Urchin habitat choice enclosure field experiment
 "Rep_Urchin_enclosure"
-##### Urchin zoanthid erosion field experiment
+## Urchin zoanthid erosion field experiment
 "Rep_zpulexclosure_persistence"
 "Rep_Urchin_exclosureexperiment_erosion"
